@@ -1,0 +1,14 @@
+{
+  "name": "mini-lang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indexMiniLang.js",
+  "type": "module",
+  "scripts": {
+    "start": "node indexMiniLang.js"
+  },
+  "dependencies": {
+    "antlr4": "^4.13.2"
+  },
+  "license": "ISC"
+}

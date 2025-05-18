@@ -1,0 +1,3 @@
+repetir {
+  imprimir("Repetir sin salir.");
+} hasta falso;
