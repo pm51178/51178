@@ -1,4 +1,4 @@
-// Generated from c://Users//prisc//OneDrive//Escritorio//ssl-antlr-calculator//MiniLang.g4 by ANTLR 4.13.2
+// Generated from c://Users//prisc//OneDrive//Escritorio//MiProyecto//MiniLang.g4 by ANTLR 4.13.2
 // jshint ignore: start
 import antlr4 from 'antlr4';
 import MiniLangListener from './MiniLangListener.js';
