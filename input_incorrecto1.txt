@@ -1,0 +1,4 @@
+repetir {
+  imprimir("Falta el punto y coma")
+  salir;
+} hasta verdadero;

@@ -1,0 +1,5 @@
+repetir {
+  imprimir("Mensaje 1.");
+  imprimir("Mensaje 2?");
+  salir;
+} hasta verdadero;

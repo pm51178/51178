@@ -1,0 +1,4 @@
+repetir {
+  imprimir("Esto no se cierra;
+  salir;
+} hasta verdadero;
