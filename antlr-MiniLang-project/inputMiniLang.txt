@@ -1,3 +1,4 @@
 repetir {
-  imprimir("Repetir sin salir.");
-} hasta falso;
+  imprimir("Hola mundo!");
+  salir;
+} hasta verdadero;
